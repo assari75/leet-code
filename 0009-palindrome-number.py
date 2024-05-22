@@ -1,7 +1,7 @@
 import unittest
 
 
-class TestMyAtoi(unittest.TestCase):
+class Test(unittest.TestCase):
 
     def test_1(self):
         self.input = 121

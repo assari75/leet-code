@@ -2,7 +2,7 @@ from typing import List
 import unittest
 
 
-class TestReverseWords(unittest.TestCase):
+class Test(unittest.TestCase):
 
     def test_1(self):
         self.input = [1, 2, 3, 4, 5]
